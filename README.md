@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @dicky1212
-- 👀 I’m interested in gayboy
-- 🌱 I’m currently learning gayboy
-- 💞️ I’m looking to collaborate on gayboy
-- 📫 How to reach me gayboy
-- 😄 Pronouns: gayboy
-- ⚡ Fun fact: i'm very GayBoy
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
+- 😄 Pronouns: 
+- ⚡ Fun fact: i'm very 
 
 <!---
 dicky1212/dicky1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
